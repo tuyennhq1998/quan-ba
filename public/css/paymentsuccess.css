@@ -1,0 +1,93 @@
+.footer {
+    width: 100%;
+    background-color: #0067AC;
+    color: white;
+    display: block;
+    font-size: 14px;
+    position: absolute;
+    height: 100px;
+    margin-top: 100px;
+    height: 100px;
+    padding-top: 20px;
+}
+
+
+.nav-tabs .nav-link.active {
+    background-color: #E0144C;
+    color: #F0FF42;
+    border: 3px solid #E0144C;
+}
+.nav-tabs .nav-link {
+    color: white;
+}
+
+body {
+    background-color: #BAD1C2;
+}
+nav {
+    background-color: #BAD1C2;
+}
+
+.logo {
+    padding-top: 10px;
+    width: 90px;
+    cursor: pointer;
+}
+
+#title {
+    color: #0067AC;
+    font-size: 24px;
+    font-weight: 1000;
+    margin-left: 20px;
+
+}
+
+#collapsibleNavbar ul li a {
+    
+    font-size: 30px;
+    font-weight: 600;
+    padding-left: 20px;
+}
+
+nav{
+    border-bottom: 3px solid #0067AC;
+}
+
+
+#note1 {
+    padding: 2px 2px 2px 2px;
+    text-align: justify;
+}
+
+#note2 {
+    padding: 0px 2px 2px 2px;
+    text-align: justify;
+}
+
+form {
+    background-color: #54B435; 
+    color:white;
+    border-radius: 10px;
+    box-shadow: none;
+}
+
+.form-control{
+    border: 1px solid #54B435;
+    
+
+   
+}
+
+.btn {
+    width: 100%; 
+    background-image: linear-gradient(to right, red,orange);
+    color: white;
+}
+
+
+
+.nav-item .nav-link {
+    border-radius: 0px;
+}
+
+
